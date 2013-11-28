@@ -1,0 +1,4 @@
+bitpay
+======
+
+BitPay Magento Module
